@@ -12,3 +12,6 @@
 > -  Creación de repositorio personal git.  
 > -  Armado de equipo de trabajo.**  
 • Hipótesis de trabajo que surgen luego de leer el enunciado: **Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.**  
+• Compilador: **tdm-gcc (64) 10.3.0**
+• Versión del compilador: **gcc.exe (tdm64-1) 10.3.0**
+• Versión de C que compila: **C18**
