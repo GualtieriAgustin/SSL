@@ -1,4 +1,4 @@
-# Sintaxis-y-Semantica-de-los-Lenguajes  
+# Sintaxis y Semántica de los Lenguajes
 Repositorio Personal para Trabajos Individuales  
 
 • Curso: **K2052**  
