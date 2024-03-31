@@ -12,4 +12,3 @@
 > -  Creación de repositorio personal git.  
 > -  Armado de equipo de trabajo.**  
 • Hipótesis de trabajo que surgen luego de leer el enunciado: **Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.**  
-hola mundo
