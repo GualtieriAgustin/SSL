@@ -59,8 +59,7 @@
     Options starting with -g, -f, -m, -O, -W, or --param are automatically
     passed on to the various sub-processes invoked by gcc.exe.  In order to pass
      other options on to these processes the -W<letter> options must be used.
-
-Las relacionadas a la limitacion del inicio y fin de las fases de traducción son las siguientes:
+    Las relacionadas a la limitacion del inicio y fin de las fases de traducción son las siguientes:
 
      -E                       Preprocess only; do not compile, assemble or link.
      -S                       Compile only; do not assemble or link.
