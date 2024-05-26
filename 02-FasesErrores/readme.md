@@ -1,6 +1,6 @@
 # 7.3 Tareas
 
-1-Las funcionalidades que presenta el compiladorlas busque mediente el comando "gcc --help". Las relacionadas a la limitacion del inicio y fin de las fases de traducción son las siguientes:
+1-Las funcionalidades que presenta el compilador las busque mediente el comando "gcc --help". Las relacionadas a la limitacion del inicio y fin de las fases de traducción son las siguientes:
 
      -E                       Preprocess only; do not compile, assemble or link.
      -S                       Compile only; do not assemble or link.
